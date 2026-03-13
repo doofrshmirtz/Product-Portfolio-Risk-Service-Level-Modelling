@@ -1,7 +1,12 @@
 # Product-Portfolio-Risk-Service-Level-Modelling
-Product Portfolio Risk &amp; Service Level Modelling.
+Product Portfolio Risk &amp; Service Level Modelling(Tonin Kaipada Thomas, M.Sc Data Science)
+ 1️⃣Tools & Technologies-
+1. Python (Pandas, NumPy)
+2. Statistical Modelling (CV, Z-score)
+3. Power BI (dashboard & portfolio visualization)
+4. Matplotlib (exploratory visualization)
 
-1️⃣ Business Problem -
+2️⃣Business Problem -
 1. Modern product portfolios often suffer from:
 2. Revenue concentration risk
 3. Demand volatility
@@ -14,7 +19,7 @@ The objective of this project was to design a structured analytical framework to
 3. Segment the portfolio by risk and contribution
 4. Translate segmentation into differentiated service level policies
 
-2️⃣ Analytical Framework-
+3️⃣ Analytical Framework-
 This project follows a 3-layer analytical structure:
 
 Layer 1 — Revenue Segmentation (ABC Analysis)
@@ -33,7 +38,7 @@ Layer 3 — Risk–Revenue Portfolio Positioning
 * Mapped revenue contribution vs demand volatility
 * Identified high-risk revenue dependencies
 
-3️⃣ Service Level Policy Design-
+4️⃣ Service Level Policy Design-
 * To translate analysis into operational policy:
 * Assigned differentiated service levels by ABC class
 * Converted service levels to Z-scores
@@ -43,11 +48,8 @@ Safety Stock = Z × σ
 
 This bridges analytics and inventory decision-making.
 
-4️⃣ Tools & Technologies-
-1. Python (Pandas, NumPy)
-2. Statistical Modelling (CV, Z-score)
-3. Power BI (dashboard & portfolio visualization)
-4. Matplotlib (exploratory visualization)
+
+[Portfolio risk dashboard](images/portfolio_risk_dashboard.png)
 
 5️⃣ Key Insights-
 * 77.8% of total revenue is driven by A-class products
