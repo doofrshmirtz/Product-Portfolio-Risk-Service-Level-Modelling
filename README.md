@@ -1,6 +1,7 @@
 # Product-Portfolio-Risk-Service-Level-Modelling
 Product Portfolio Risk &amp; Service Level Modelling(Tonin Kaipada Thomas, M.Sc Data Science)
- 1️⃣Tools & Technologies-
+
+1️⃣Tools & Technologies-
 1. Python (Pandas, NumPy)
 2. Statistical Modelling (CV, Z-score)
 3. Power BI (dashboard & portfolio visualization)
